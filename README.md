@@ -2,15 +2,13 @@
 
 [中文](README.md) | [English](README_EN.md)
 
-PornhubCrawler 是一款面向 Windows 的 Pornhub 专用图形化视频下载工具，支持单视频下载、列表批量处理、多页面连续下载、并发下载、失败重试及任务管理。
+PornhubCrawler 是一款面向 Windows 的 Phub 专用图形化视频下载工具，支持单视频下载、列表批量处理、多页面连续下载、并发下载、失败重试及任务管理。
 
 > 本项目仅针对 Pornhub 的页面结构和视频资源实现，不适配其他视频网站，也不提供通用网站解析能力。
 
 > **使用限制：本项目仅供个人学习、技术研究与交流，禁止任何商业用途，包括但不限于销售、付费分发、商业服务及商业获利。**
 
 ## 下载
-
-[下载最新版 PornhubCrawler（Windows x64）](https://github.com/Qiuyue0125/PornhubCrawler/releases/latest/download/PHCrawler-Windows-x64.zip)
 
 下载 ZIP 后请完整解压，再运行其中的 `ph_crawler.exe`。程序依赖压缩包内附带的浏览器、驱动和 FFmpeg 文件，请勿只复制 exe 单独运行。
 
