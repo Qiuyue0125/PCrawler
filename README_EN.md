@@ -38,8 +38,6 @@ Configure worker count, batch interval, segment retries, connection/read timeout
 
 Configure the output directory and default single-video URL, and add or remove batch-download shortcut links.
 
-![Path and link settings](./assets/path-link-settings.png)
-
 ## Default UI mode
 
 Release builds use the full normal interface by default:
